@@ -1,0 +1,23 @@
+[33mcommit eec72b1697543dc2a4916685bbbd2f5dcc8c0e9e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: %username% <%email%>
+Date:   Tue Nov 10 14:33:17 2026 -0500
+
+    Added the Targets getting destroyed and playing a sound after it
+
+[33mcommit 68f1d5e30b38f880695d56de277df56acaa794b1[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: %username% <%email%>
+Date:   Tue Nov 10 14:19:24 2026 -0500
+
+    This time I added the shooting function on the Cannon class
+
+[33mcommit b5a26c67f2cffbf48e6d787640da4bd5995e1b21[m
+Author: %username% <%email%>
+Date:   Tue Nov 10 14:12:47 2026 -0500
+
+    I added cannon rotation and (soon) shoot the balls in the cannon class
+
+[33mcommit 26f3a504f4c43e3e936afb5f38bc92cd5cfff4b0[m
+Author: zyth3810 <zythalexander12@gmail.com>
+Date:   Tue Nov 10 13:50:07 2026 -0500
+
+    Initial commit
